@@ -16,7 +16,8 @@ namespace Aarware.Scripts {
         const string menuRoot           = "Assets/Scripts/";
         const string toolRoot           = "Aarware/Scripts/";
 
-        [MenuItem("Assets/Create Directories", false, 0)]
+        [MenuItem(menuRoot + " Create Directories", false, 1)]
+        [MenuItem(toolRoot + "Create Directories", false, 0)]
         public static void CreateDirStructure(){
 
             string[] toplevel = new string[]{"Art", "Audio", "Editor", "Fonts", "Scenes", "Scripts", "Prefabs", "External"};
