@@ -1,0 +1,16 @@
+{
+    "name": "com.aarware.scripts.templates",
+    "version": "1.0.0",
+    "displayName": "Script Templates",
+    "description": "Editor add on to quickly create bootstaped scripts and also include some nice helper scripts",
+    "unity": "2021.3",
+    "unityRelease": "4f1",
+    "keywords": [
+
+    ],
+    "author": {
+        "name": "Aaron Buffie",
+        "email":"apbuffie@gmail.com",
+        "url": "http://aarware.com"
+    }
+}
