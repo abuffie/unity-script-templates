@@ -1,6 +1,6 @@
 {
     "name": "com.aarware.script.templates.Editor",
-    "rootNamespace": "Aarware.Scripts",
+    "rootNamespace": "Aarware",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
